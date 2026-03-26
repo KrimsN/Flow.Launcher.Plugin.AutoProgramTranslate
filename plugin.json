@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
   "ID":"e6d1be2c-3141-404d-a909-0e7edd1747cf",             //Plugin ID，32 bit UUID
-  "ActionKeywords":["my"],  //Plugin default action keyword (* means no specific action keyword)
+  "ActionKeyword":"my",  //Plugin default action keyword (* means no specific action keyword)
   "Name":"PhuntoSwitcher",           //Plugin name
   "Description":"",    //Plugin description
   "Author":"KrimsN",         //Plugin Author

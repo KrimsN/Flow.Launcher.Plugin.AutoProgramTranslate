@@ -3,7 +3,7 @@
   "ID":"e6d1be2c-3141-404d-a909-0e7edd1747cf",             //Plugin ID，32 bit UUID
   "ActionKeyword":"my",  //Plugin default action keyword (* means no specific action keyword)
   "Name":"PhuntoSwitcher",           //Plugin name
-  "Description":"",    //Plugin description
+  "Description":"test1",    //Plugin description
   "Author":"KrimsN",         //Plugin Author
   "Version":"1.0.0",        //Plugin version (e.g. 1.0.0). It is important for plugin update checking.
   "Language":"python",       //Plugin language，available fields are csharp, fsharp, python, javascript, typescript and executable. Make sure you put the correct field for your plugin language, this is important so that the required runtime environment can be setup automatically.
